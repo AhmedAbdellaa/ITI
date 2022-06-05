@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xmi:XMI xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:TalendMetadata="http://www.talend.org/metadata/connection/2010" xmlns:orgomg.cwm.resource.record="http:///orgomg/cwm/resource/record.ecore">
+  <TalendMetadata:DelimitedFileConnection xmi:id="_2Fd0QG4oEeyDm9erSx9uTQ" name="forcast_wheter_csv_out" id="_2FdNMG4oEeyDm9erSx9uTQ" dataPackage="_2Fd0QW4oEeyDm9erSx9uTQ" Server="Localhost 127.0.0.1" FilePath="/home/Ahmed/Downloads/Data Exploration and Preparation_Intake2_Day1/lab2/forcast_wheter_csv_out.csv" Encoding="US-ASCII" FieldSeparatorValue="&quot;,&quot;" RowSeparatorValue="&quot;\n&quot;" HeaderValue="0" FieldSeparatorType="Comma"/>
+  <orgomg.cwm.resource.record:RecordFile xmi:id="_2Fd0QW4oEeyDm9erSx9uTQ" name="default" dataManager="_2Fd0QG4oEeyDm9erSx9uTQ">
+    <ownedElement xsi:type="TalendMetadata:MetadataTable" xmi:id="_2Fd0Qm4oEeyDm9erSx9uTQ" id="_PrlvUG4oEeyDm9erSx9uTQ" label="metadata">
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6EawG4pEeyDm9erSx9uTQ" name="dt" label="dt" length="-1" precision="-1" sourceType="" talendType="id_Long" originalLength="-1">
+        <initialValue xmi:id="_P6EawW4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6Eawm4pEeyDm9erSx9uTQ" name="sunrise" label="sunrise" length="-1" precision="-1" sourceType="" talendType="id_Long" originalLength="-1">
+        <initialValue xmi:id="_P6Eaw24pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6EaxG4pEeyDm9erSx9uTQ" name="sunset" label="sunset" length="-1" precision="-1" sourceType="" talendType="id_Long" originalLength="-1">
+        <initialValue xmi:id="_P6FB0G4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB0W4pEeyDm9erSx9uTQ" name="temp_d" label="temp_d" length="-1" precision="-1" sourceType="" talendType="id_Float" originalLength="-1">
+        <initialValue xmi:id="_P6FB0m4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB024pEeyDm9erSx9uTQ" name="temp_n" label="temp_n" length="-1" precision="-1" sourceType="" talendType="id_Float" originalLength="-1">
+        <initialValue xmi:id="_P6FB1G4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB1W4pEeyDm9erSx9uTQ" name="temp_e" label="temp_e" length="-1" precision="-1" sourceType="" talendType="id_Float" originalLength="-1">
+        <initialValue xmi:id="_P6FB1m4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB124pEeyDm9erSx9uTQ" name="temp_m" label="temp_m" length="-1" precision="-1" sourceType="" talendType="id_Float" originalLength="-1">
+        <initialValue xmi:id="_P6FB2G4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB2W4pEeyDm9erSx9uTQ" name="temp_min" label="temp_min" length="-1" precision="-1" sourceType="" talendType="id_Float" originalLength="-1">
+        <initialValue xmi:id="_P6FB2m4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB224pEeyDm9erSx9uTQ" name="temp_max" label="temp_max" length="-1" precision="-1" sourceType="" talendType="id_Float" originalLength="-1">
+        <initialValue xmi:id="_P6FB3G4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB3W4pEeyDm9erSx9uTQ" name="feel_d" label="feel_d" length="-1" precision="-1" sourceType="" talendType="id_Float" originalLength="-1">
+        <initialValue xmi:id="_P6FB3m4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB324pEeyDm9erSx9uTQ" name="feel_n" label="feel_n" length="-1" precision="-1" sourceType="" talendType="id_Float" originalLength="-1">
+        <initialValue xmi:id="_P6FB4G4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB4W4pEeyDm9erSx9uTQ" name="feel_e" label="feel_e" length="-1" precision="-1" sourceType="" talendType="id_Float" originalLength="-1">
+        <initialValue xmi:id="_P6FB4m4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB424pEeyDm9erSx9uTQ" name="feel_m" label="feel_m" length="-1" precision="-1" sourceType="" talendType="id_Float" originalLength="-1">
+        <initialValue xmi:id="_P6FB5G4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB5W4pEeyDm9erSx9uTQ" name="pressure" label="pressure" length="-1" precision="-1" sourceType="" talendType="id_Integer" originalLength="-1">
+        <initialValue xmi:id="_P6FB5m4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB524pEeyDm9erSx9uTQ" name="humidity" label="humidity" length="-1" precision="-1" sourceType="" talendType="id_Integer" originalLength="-1">
+        <initialValue xmi:id="_P6FB6G4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB6W4pEeyDm9erSx9uTQ" name="weather_id" label="weather_id" length="-1" precision="-1" sourceType="" talendType="id_Integer" originalLength="-1">
+        <initialValue xmi:id="_P6FB6m4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB624pEeyDm9erSx9uTQ" name="whether_main" label="whether_main" length="-1" precision="-1" sourceType="" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_P6FB7G4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB7W4pEeyDm9erSx9uTQ" name="whether_des" label="whether_des" length="-1" precision="-1" sourceType="" talendType="id_String" originalLength="-1">
+        <initialValue xmi:id="_P6FB7m4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB724pEeyDm9erSx9uTQ" name="speed" label="speed" length="-1" precision="-1" sourceType="" talendType="id_Float" originalLength="-1">
+        <initialValue xmi:id="_P6FB8G4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB8W4pEeyDm9erSx9uTQ" name="deg" label="deg" length="-1" precision="-1" sourceType="" talendType="id_Integer" originalLength="-1">
+        <initialValue xmi:id="_P6FB8m4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB824pEeyDm9erSx9uTQ" name="gust" label="gust" length="-1" precision="-1" sourceType="" talendType="id_Float" originalLength="-1">
+        <initialValue xmi:id="_P6FB9G4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB9W4pEeyDm9erSx9uTQ" name="clouds" label="clouds" length="-1" precision="-1" sourceType="" talendType="id_Integer" originalLength="-1">
+        <initialValue xmi:id="_P6FB9m4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+      <feature xsi:type="TalendMetadata:MetadataColumn" xmi:id="_P6FB924pEeyDm9erSx9uTQ" name="pop" label="pop" length="-1" precision="-1" sourceType="" talendType="id_Integer" originalLength="-1">
+        <initialValue xmi:id="_P6FB-G4pEeyDm9erSx9uTQ" body=""/>
+      </feature>
+    </ownedElement>
+  </orgomg.cwm.resource.record:RecordFile>
+</xmi:XMI>

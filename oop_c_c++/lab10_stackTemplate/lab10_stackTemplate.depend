@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1638199356 source:/home/Ahmed/Documents/02-oop_c_c++/lab10_stackTemplate/main.cpp
+	<iostream>
+	"Stack.h"
+
+1638199577 source:/home/Ahmed/Documents/02-oop_c_c++/lab10_stackTemplate/Stack.cpp
+	"Stack.h"
+	<iostream>
+
+1638199731 /home/Ahmed/Documents/02-oop_c_c++/lab10_stackTemplate/Stack.h
+
+1638195455 /home/Ahmed/Documents/02-oop_c_c++/lab10_stackTemplate/Stack.cpp
+	"Stack.h"
+	<iostream>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1636543260 source:/home/Ahmed/Documents/print_in_ascii/main.c
+	<stdio.h>
+	<stdlib.h>
+

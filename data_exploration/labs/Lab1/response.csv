@@ -1,0 +1,251 @@
+timezone,state_code,value,iso_a2,state_hasc,key
+America/Lima,PE-LAM,Olmos,PE,PE.LB,OLMOS|PE-LAM
+Africa/Lubumbashi,CD-MA,Kampene,CD,CD.MN,KAMPENE|CD-MA
+Asia/Almaty,KZ-ZHA,Qulan,KZ,KZ.ZM,QULAN|KZ-ZHA
+Africa/Lubumbashi,CD-KA,Kaniama,CD,CD.KT,KANIAMA|CD-KA
+Asia/Jayapura,ID-PA,Nabire,ID,ID.PA,NABIRE|ID-PA
+Asia/Makassar,ID-SR,Majene,ID,ID.SR,MAJENE|ID-SR
+America/Bahia,BR-BA,Alagoinhas,BR,BR.BA,ALAGOINHAS|BR-BA
+America/Bahia,BR-BA,Vitória da Conquista,BR,BR.BA,VITORIA DA CONQUISTA|BR-BA
+America/Lima,PE-ICA,Santiago,PE,PE.IC,SANTIAGO|PE-ICA
+Asia/Qyzylorda,KZ-AKM,Zholymbet,KZ,KZ.AM,ZHOLYMBET|KZ-AKM
+Asia/Ashgabat,TM-B,Gyzlarbat,TM,TM.BA,GYZLARBAT|TM-B
+America/Guayaquil,EC-M,Jipijapa,EC,EC.MN,JIPIJAPA|EC-M
+Asia/Chongqing,CN-50,Wanzhou,CN,CN.CQ,WANZHOU|CN-50
+Asia/Chongqing,CN-42,Puqi,CN,CN.HU,PUQI|CN-42
+Asia/Shanghai,CN-37,Shanxian,CN,CN.SD,SHANXIAN|CN-37
+Asia/Shanghai,CN-37,Pingyi,CN,CN.SD,PINGYI|CN-37
+Asia/Harbin,CN-15,Jining,CN,CN.NM,JINING|CN-15
+Asia/Harbin,CN-23,Longjiang,CN,CN.HL,LONGJIANG|CN-23
+Asia/Harbin,CN-22,Fuyu,CN,CN.JL,FUYU|CN-22
+Asia/Chongqing,CN-14,Yuci,CN,CN.SX,YUCI|CN-14
+Asia/Krasnoyarsk,RU-KK,Shira,RU,RU.KK,SHIRA|RU-KK
+Asia/Yakutsk,RU-ZAB,Olovyannaya,RU,RU.CT,OLOVYANNAYA|RU-ZAB
+Asia/Almaty,KZ-KAR,Aqadyr,KZ,KZ.QG,AQADYR|KZ-KAR
+America/Cuiaba,BR-MT,Aripuana,BR,BR.MT,ARIPUANA|BR-MT
+Asia/Jakarta,ID-JT,Pati,ID,ID.JT,PATI|ID-JT
+Asia/Pyongyang,KP-02,Sin-Ni,KP,KP.PN,SIN-NI|KP-02
+Asia/Pyongyang,KP-07,Anbyon,KP,KP.KW,ANBYON|KP-07
+Asia/Jakarta,ID-LA,Kotabumi,ID,ID.LA,KOTABUMI|ID-LA
+Asia/Pyongyang,KP-05,Ongjin,KP,KP.WN,ONGJIN|KP-05
+Asia/Pyongyang,KP-05,Changyon,KP,KP.WN,CHANGYON|KP-05
+Africa/Dar_es_Salaam,TZ-24,Nzega,TZ,TZ.TB,NZEGA|TZ-24
+Asia/Pontianak,ID-KT,Kualakapuas,ID,ID.KT,KUALAKAPUAS|ID-KT
+Africa/Dar_es_Salaam,TZ-08,Kakonko,TZ,TZ.KM,KAKONKO|TZ-08
+Africa/Dar_es_Salaam,TZ-19,Kibiti,TZ,TZ.PW,KIBITI|TZ-19
+Asia/Qyzylorda,KZ-KUS,Turgay,KZ,KZ.QS,TURGAY|KZ-KUS
+Asia/Aqtobe,KZ-KUS,Qusmuryn,KZ,KZ.QS,QUSMURYN|KZ-KUS
+Asia/Aqtobe,KZ-KUS,Tobol,KZ,KZ.QS,TOBOL|KZ-KUS
+Asia/Aqtobe,KZ-KUS,Komsomolets,KZ,KZ.QS,KOMSOMOLETS|KZ-KUS
+Asia/Krasnoyarsk,RU-KEM,Mundybash,RU,RU.KE,MUNDYBASH|RU-KEM
+Asia/Krasnoyarsk,RU-TOM,Timiryazevskiy,RU,RU.TO,TIMIRYAZEVSKIY|RU-TOM
+Europe/Amsterdam,NL-NB,'s Gravenmoer,NL,NL.NB,'S GRAVENMOER|NL-NB
+Europe/Amsterdam,NL-ZH,'s-Gravenzande,NL,NL.ZH,'S-GRAVENZANDE|NL-ZH
+Europe/Amsterdam,NL-GE,'s-Heerenberg,NL,NL.GE,'S-HEERENBERG|NL-GE
+Europe/Amsterdam,NL-NB,'s-Hertogenbosch,NL,NL.NB,'S-HERTOGENBOSCH|NL-NB
+Europe/Amsterdam,NL-NH,'t Zand,NL,NL.NH,'T ZAND|NL-NH
+America/Mexico_City,MX-GRO,10 De Abril,MX,MX.GR,10 DE ABRIL|MX-GRO
+America/Vancouver,CA-BC,100 Mile House,CA,CA.BC,100 MILE HOUSE|CA-BC
+America/Mexico_City,MX-PUE,18 De Marzo,MX,MX.PU,18 DE MARZO|MX-PUE
+America/Mexico_City,MX-CHP,1ra. Sección De Izapa,MX,MX.CP,1RA. SECCION DE IZAPA|MX-CHP
+America/Montevideo,UY-FD,25 De Agosto,UY,UY.FD,25 DE AGOSTO|UY-FD
+America/Montevideo,UY-FD,25 De Mayo,UY,UY.FD,25 DE MAYO|UY-FD
+America/Argentina/Rio_Gallegos,AR-Z,28 De Noviembre,AR,AR.SC,28 DE NOVIEMBRE|AR-Z
+America/Mexico_City,MX-CHP,2da. Sección De Medio Monte,MX,MX.CP,2DA. SECCION DE MEDIO MONTE|MX-CHP
+America/Hermosillo,MX-SON,31 De Octubre,MX,MX.SO,31 DE OCTUBRE|MX-SON
+Europe/Madrid,ES-C,A Baña,ES,ES.GA,A BANA|ES-C
+Europe/Madrid,ES-C,A Coruña,ES,ES.GA,LA CORUNA|ES-C
+Europe/Lisbon,PT-11,A Dos Cunhados,PT,PT.LI,A DOS CUNHADOS|PT-11
+Europe/Lisbon,PT-10,A Dos Francos,PT,PT.LE,A DOS FRANCOS|PT-10
+Europe/Madrid,ES-PO,A Estrada,ES,ES.GA,A ESTRADA|ES-PO
+Europe/Madrid,ES-LU,A Pobra Do Brollon,ES,ES.GA,A POBRA DO BROLLON|ES-LU
+Europe/Madrid,ES-C,A Pobra Do Caramiñal,ES,ES.GA,A POBRA DO CARAMINAL|ES-C
+Europe/Madrid,ES-OR,A Rúa,ES,ES.GA,A RUA|ES-OR
+Europe/Berlin,DE-BW,Aach,DE,DE.BW,AACH|DE-BW
+Europe/Zurich,CH-TG,Aadorf,CH,CH.TG,AADORF|CH-TG
+Europe/Amsterdam,NL-ZE,Aagtekerke,NL,NL.ZE,AAGTEKERKE|NL-ZE
+Europe/Copenhagen,DK-81,Aalborg,DK,DK.ND,AALBORG|DK-81
+Europe/Amsterdam,NL-NB,Aalburg,NL,NL.NB,AALBURG|NL-NB
+Europe/Amsterdam,NL-DR,Aalden,NL,NL.DR,AALDEN|NL-DR
+Europe/Amsterdam,NL-NH,Aalsmeer,NL,NL.NH,AALSMEER|NL-NH
+Europe/Brussels,BE-VOV,Aalst,BE,BE.OV,AALST|BE-VOV
+Europe/Amsterdam,NL-GE,Aalst,NL,NL.GE,AALST|NL-GE
+Europe/Amsterdam,NL-GE,Aalten,NL,NL.GE,AALTEN|NL-GE
+Europe/Brussels,BE-VOV,Aalter,BE,BE.OV,AALTER|BE-VOV
+Asia/Manila,PH-ALB,Aanislag,PH,PH.AL,AANISLAG|PH-ALB
+Asia/Beirut,LB-BI,Aanjar,LB,LB.BQ,AANJAR|LB-BI
+Europe/Zurich,CH-AG,Aarau,CH,CH.AG,AARAU|CH-AG
+Europe/Zurich,CH-BE,Aarberg,CH,CH.BE,AARBERG|CH-BE
+Europe/Zurich,CH-AG,Aarburg,CH,CH.AG,AARBURG|CH-AG
+Europe/Amsterdam,NL-ZE,Aardenburg,NL,NL.ZE,AARDENBURG|NL-ZE
+Europe/Copenhagen,DK-82,Aarhus,DK,DK.MJ,AARHUS|DK-82
+Europe/Amsterdam,NL-NB,Aarle-Rixtel,NL,NL.NB,AARLE-RIXTEL|NL-NB
+Europe/Brussels,BE-VBR,Aarschot,BE,BE.VB,AARSCHOT|BE-VBR
+Europe/Brussels,BE-VAN,Aartselaar,BE,BE.AN,AARTSELAAR|BE-VAN
+Europe/Zurich,CH-BE,Aarwangen,CH,CH.BE,AARWANGEN|CH-BE
+Europe/Budapest,HU-FE,Aba,HU,HU.FE,ABA|HU-FE
+Asia/Manila,PH-ILI,Abaca,PH,PH.II,ABACA|PH-ILI
+Asia/Manila,PH-BOH,Abaca,PH,PH.BO,ABACA|PH-BOH
+Asia/Tehran,IR-10,Abadan,IR,IR.KZ,ABADAN|IR-10
+Asia/Ashgabat,TM-A,Abadan Etrap,TM,TM.AL,BUZMEYIN|TM-A
+America/Sao_Paulo,BR-GO,Abadiânia,BR,BR.GO,ABADIANIA|BR-GO
+Europe/Moscow,RU-AD,Abadzekhskaya,RU,RU.AD,ABADZEKHSKAYA|RU-AD
+America/Santarem,BR-PA,Abaetetuba,BR,BR.PA,ABAETETUBA|BR-PA
+America/Sao_Paulo,BR-MG,Abaeté,BR,BR.MG,ABAETE|BR-MG
+Asia/Novokuznetsk,RU-KEM,Abagur,RU,RU.KE,ABAGUR|RU-KEM
+Africa/Lagos,NG-EB,Abakaliki,NG,NG.EB,ABAKALIKI|NG-EB
+Asia/Krasnoyarsk,RU-KYA,Abakan,RU,RU.KX,ABAKAN|RU-KYA
+America/Merida,MX-YUC,Abala,MX,MX.YU,ABALA|MX-YUC
+Asia/Yekaterinburg,RU-TYU,Abalak,RU,RU.TY,ABALAK|RU-TYU
+Asia/Krasnoyarsk,RU-KYA,Aban,RU,RU.KX,ABAN|RU-KYA
+America/Lima,PE-APU,Abancay,PE,PE.AP,ABANCAY|PE-APU
+Asia/Manila,PH-ILI,Abangay,PH,PH.II,ABANGAY|PH-ILI
+America/La_Paz,BO-S,Abapó,BO,BO.SC,ABAPO|BO-S
+Europe/Madrid,ES-MU,Abarán,ES,ES.MU,ABARAN|ES-MU
+America/Monterrey,MX-DUR,Abasolo,MX,MX.DU,ABASOLO|MX-DUR
+America/Mexico_City,MX-CHP,Abasolo,MX,MX.CP,ABASOLO|MX-CHP
+America/Mexico_City,MX-VER,Abasolo Del Valle,MX,MX.VE,ABASOLO DEL VALLE|MX-VER
+Europe/Budapest,HU-HE,Abasár,HU,HU.HE,ABASAR|HU-HE
+Asia/Yekaterinburg,RU-TYU,Abatskoye,RU,RU.TY,ABATSKOYE|RU-TYU
+Asia/Almaty,KZ-KAR,Abay,KZ,KZ.QG,ABAY|KZ-KAR
+Asia/Krasnoyarsk,RU-KK,Abaza,RU,RU.KK,ABAZA|RU-KK
+America/Asuncion,PY-6,Abaí,PY,PY.CZ,ABAI|PY-6
+Europe/Budapest,HU-BZ,Abaújszántó,HU,HU.BZ,ABAUJSZANTO|HU-BZ
+Europe/Paris,FR-44,Abbaretz,FR,FR.LA,ABBARETZ|FR-44
+Europe/Rome,IT-BG,Abbazia,IT,IT.BG,ABBAZIA|IT-BG
+Europe/Rome,IT-PD,Abbazia Pisani,IT,IT.PD,ABBAZIA PISANI|IT-PD
+Europe/Amsterdam,NL-NH,Abbekerk,NL,NL.NH,ABBEKERK|NL-NH
+Europe/Berlin,DE-NI,Abbesbüttel,DE,DE.NI,ABBESBUETTEL|DE-NI
+Europe/London,GB-GRE,Abbey Wood,GB,GB.GR,ABBEY WOOD|GB-GRE
+Europe/Dublin,IE-LK,Abbeyfeale,IE,IE.LK,ABBEYFEALE|IE-LK
+Europe/Dublin,IE-LS,Abbeyleix,IE,IE.LS,ABBEYLEIX|IE-LS
+Europe/Stockholm,SE-W,Abborrberget,SE,SE.KO,ABBORRBERGET|SE-W
+Europe/London,GB-STS,Abbots Bromley,GB,GB.ST,ABBOTS BROMLEY|GB-STS
+Europe/London,GB-HRT,Abbots Langley,GB,GB.HT,ABBOTS LANGLEY|GB-HRT
+America/Vancouver,CA-BC,Abbotsford,CA,CA.BC,ABBOTSFORD|CA-BC
+America/Chicago,US-WI,Abbotsford,US,US.WI,ABBOTSFORD|US-WI
+Europe/London,GB-DEV,Abbotskerswell,GB,GB.DO,ABBOTSKERSWELL|GB-DEV
+Europe/London,GB-HAM,Abbotts Ann,GB,GB.HA,ABBOTTS ANN|GB-HAM
+America/New_York,US-PA,Abbottstown,US,US.PA,ABBOTTSTOWN|US-PA
+Europe/Amsterdam,NL-UT,Abcoude,NL,NL.UT,ABCOUDE|NL-UT
+Europe/Amsterdam,NL-NB,Abcoven,NL,NL.NB,ABCOVEN|NL-NB
+Europe/Budapest,HU-GS,Abda,HU,HU.GS,ABDA|HU-GS
+America/Chihuahua,MX-CHH,Abdenago C. García,MX,MX.CH,ABDENAGO C. GARCIA|MX-CHH
+Asia/Yekaterinburg,RU-ORE,Abdulino,RU,RU.OB,ABDULINO|RU-ORE
+Europe/Paris,FR-34,Abeilhan,FR,FR.HE,ABEILHAN|FR-34
+America/Mexico_City,MX-MOR,Abelardo L. Rodríguez,MX,MX.MR,ABELARDO L. RODRIGUEZ|MX-MOR
+America/Merida,MX-CAM,Abelardo L. Rodríguez,MX,MX.CM,ABELARDO L. RODRIGUEZ|MX-CAM
+Europe/Berlin,DE-BY,Abenberg,DE,DE.BY,ABENBERG|DE-BY
+Africa/Abidjan,CI-05,Abengourou,CI,CI.CM.SC,ABENGOUROU|CI-05
+Europe/Berlin,DE-BY,Abensberg,DE,DE.BY,ABENSBERG|DE-BY
+Africa/Lagos,NG-OG,Abeokuta,NG,NG.OG,ABEOKUTA|NG-OG
+Europe/London,GB-MTY,Abercanaid,GB,GB.MT,ABERCANAID|GB-MTY
+Europe/London,GB-CAY,Abercarn,GB,GB.CP,ABERCARN|GB-CAY
+Europe/London,GB-ABD,Aberchirder,GB,GB.AS,ABERCHIRDER|GB-ABD
+Europe/London,GB-RCT,Abercynon,GB,GB.RT,ABERCYNON|GB-RCT
+Europe/London,GB-RCT,Aberdare,GB,GB.RT,ABERDARE|GB-RCT
+Europe/London,GB-ABE,Aberdeen,GB,GB.AR,ABERDEEN|GB-ABE
+America/Los_Angeles,US-WA,Aberdeen,US,US.WA,ABERDEEN|US-WA
+America/Chicago,US-SD,Aberdeen,US,US.SD,ABERDEEN|US-SD
+Australia/Sydney,AU-NSW,Aberdeen,AU,AU.NS,ABERDEEN|AU-NSW
+America/Chicago,US-IN,Aberdeen,US,US.IN,ABERDEEN|US-IN
+America/Boise,US-ID,Aberdeen,US,US.ID,ABERDEEN|US-ID
+America/New_York,US-FL,Aberdeen,US,US.FL,ABERDEEN|US-FL
+America/New_York,US-NC,Aberdeen,US,US.NC,ABERDEEN|US-NC
+America/New_York,US-MD,Aberdeen,US,US.MD,ABERDEEN|US-MD
+America/New_York,US-KY,Aberdeen,US,US.KY,ABERDEEN|US-KY
+America/New_York,US-MD,Aberdeen Proving Ground,US,US.MD,ABERDEEN PROVING GROUND|US-MD
+Europe/London,GB-FIF,Aberdour,GB,GB.FI,ABERDOUR|GB-FIF
+Europe/London,GB-MTY,Aberfan,GB,GB.MT,ABERFAN|GB-MTY
+Europe/London,GB-PKN,Aberfeldy,GB,GB.PK,ABERFELDY|GB-PKN
+Europe/London,GB-MON,Abergavenny,GB,GB.MM,ABERGAVENNY|GB-MON
+Europe/London,GB-CWY,Abergele,GB,GB.CW,ABERGELE|GB-CWY
+Europe/London,GB-BGE,Aberkenfig,GB,GB.BJ,ABERKENFIG|GB-BGE
+Europe/London,GB-ELN,Aberlady,GB,GB.EL,ABERLADY|GB-ELN
+America/Chicago,US-TX,Abernathy,US,US.TX,ABERNATHY|US-TX
+Europe/London,GB-PKN,Abernethy,GB,GB.PK,ABERNETHY|GB-PKN
+Europe/London,GB-CGN,Aberporth,GB,GB.CG,ABERPORTH|GB-CGN
+Europe/Prague,CZ-KA,Abertamy,CZ,CZ.KK,ABERTAMY|CZ-KA
+Europe/London,GB-BGW,Abertillery,GB,GB.BG,ABERTILLERY|GB-BGW
+Europe/London,GB-RCT,Abertridwr,GB,GB.RT,ABERTRIDWR|GB-RCT
+Asia/Riyadh,SA-14,Abha,SA,SA.AS,ABHA|SA-14
+Asia/Kolkata,IN-RJ,Abhaneri,IN,IN.RJ,ABHANERI|IN-RJ
+Asia/Kolkata,IN-AS,Abhayāpuri,IN,IN.AS,ABHAYAPURI|IN-AS
+Africa/Abidjan,CI-01,Abidjan,CI,CI.LG.AB,ABIDJAN|CI-01
+Asia/Manila,PH-ILI,Abilay,PH,PH.II,ABILAY|PH-ILI
+America/Chicago,US-TX,Abilene,US,US.TX,ABILENE|US-TX
+Europe/Paris,FR-37,Abilly,FR,FR.IL,ABILLY|FR-37
+Europe/London,GB-OXF,Abingdon,GB,GB.OX,ABINGDON|GB-OXF
+America/Chicago,US-IL,Abingdon,US,US.IL,ABINGDON|US-IL
+America/New_York,US-MA,Abington,US,US.MA,ABINGTON|US-MA
+Asia/Kolkata,IN-TN,Abirāmam,IN,IN.TN,ABIRAMAM|IN-TN
+Asia/Manila,PH-NER,Abis,PH,PH.NR,ABIS|PH-NER
+America/Chicago,US-LA,Abita Springs,US,US.LA,ABITA SPRINGS|US-LA
+Europe/Paris,FR-62,Ablain-Saint-Nazaire,FR,FR.PC,ABLAIN-SAINT-NAZAIRE|FR-62
+Europe/Paris,FR-95,Ableiges,FR,FR.VO,ABLEIGES|FR-95
+Europe/Paris,FR-78,Ablis,FR,FR.YV,ABLIS|FR-78
+Europe/Paris,FR-14,Ablon,FR,FR.CV,ABLON|FR-14
+Europe/Paris,FR-94,Ablon-Sur-Seine,FR,FR.VM,ABLON-SUR-SEINE|FR-94
+Africa/Cairo,EG-AST,Abnūb,EG,EG.AT,ABNUB|EG-AST
+Africa/Abidjan,CI-01,Abobo,CI,CI.LG.AB,ABOBO|CI-01
+Africa/Lagos,NG-KO,Abocho,NG,NG.KO,ABOCHO|NG-KO
+Asia/Kolkata,IN-PB,Abohar,IN,IN.PB,ABOHAR|IN-PB
+Africa/Abidjan,CI-13,Aboisso,CI,CI.SC,ABOISSO|CI-13
+Africa/Porto-Novo,BJ-ZO,Abomey,BJ,BJ.ZO,ABOMEY|BJ-ZO
+Africa/Porto-Novo,BJ-AQ,Abomey-Calavi,BJ,BJ.AQ,ABOMEY-CALAVI|BJ-AQ
+Africa/Addis_Ababa,ET-AM,Abomsa,ET,ET.AM,ABOMSA|ET-AM
+Europe/Paris,FR-74,Abondance,FR,FR.HS,ABONDANCE|FR-74
+Europe/Paris,FR-28,Abondant,FR,FR.EL,ABONDANT|FR-28
+Africa/Douala,CM-ES,Abong-Mbang,CM,CM.ES,ABONG MBANG|CM-ES
+Europe/Budapest,HU-PE,Abony,HU,HU.PT,ABONY|HU-PE
+Asia/Manila,PH-PLW,Aborlan,PH,PH.PL,ABORLAN|PH-PLW
+Africa/Accra,GH-WP,Aboso,GH,GH.WP,ABOSO|GH-WP
+Africa/Algiers,DZ-02,Abou El Hassan,DZ,DZ.CH,ABOU EL HASSAN|DZ-02
+Asia/Yerevan,AM-KT,Abovyan,AM,AM.KT,ABOVYAN|AM-KT
+Asia/Yerevan,AM-AR,Abovyan,AM,AM.AR,ABOVYAN|AM-AR
+Europe/London,GB-ABD,Aboyne,GB,GB.AS,ABOYNE|GB-ABD
+Asia/Riyadh,SA-04,Abqaiq,SA,SA.SH,ABQAIQ|SA-04
+Africa/Lagos,NG-DE,Abraka,NG,NG.DE,ABRAKA|NG-DE
+Europe/London,GB-WGN,Abram,GB,GB.WN,ABRAM|GB-WGN
+Asia/Kolkata,IN-GJ,Abrama,IN,IN.GJ,ABRAMA|IN-GJ
+Europe/Moscow,RU-VOR,Abramovka,RU,RU.VR,ABRAMOVKA|RU-VOR
+Europe/Moscow,RU-KDA,Abrau-Dyurso,RU,RU.KD,ABRAU-DYURSO|RU-KDA
+Europe/Lisbon,PT-18,Abraveses,PT,PT.VI,ABRAVESES|PT-18
+Europe/Madrid,ES-B,Abrera,ES,ES.CT,ABRERA|ES-B
+Europe/Paris,FR-57,Abreschviller,FR,FR.MO,ABRESCHVILLER|FR-57
+Europe/Paris,FR-03,Abrest,FR,FR.AL,ABREST|FR-03
+America/Recife,BR-PE,Abreu E Lima,BR,BR.PE,ABREU E LIMA|BR-PE
+America/Havana,CU-06,Abreus,CU,CU.CF,ABREUS|CU-06
+America/Mexico_City,MX-VER,Abrevadero,MX,MX.VE,ABREVADERO|MX-VER
+Europe/London,GB-ESS,Abridge,GB,GB.EX,ABRIDGE|GB-ESS
+Europe/Lisbon,PT-11,Abrigada,PT,PT.LI,ABRIGADA|PT-11
+Asia/Tehran,IR-04,Abrīsham,IR,IR.ES,ABRISHAM|IR-04
+America/Denver,US-MT,Absarokee,US,US.MT,ABSAROKEE|US-MT
+Europe/Berlin,DE-BY,Absberg,DE,DE.BY,ABSBERG|DE-BY
+Europe/Paris,FR-59,Abscon,FR,FR.NO,ABSCON|FR-59
+America/New_York,US-NJ,Absecon,US,US.NJ,ABSECON|US-NJ
+Europe/Vienna,AT-6,Abtissendorf,AT,AT.ST,ABTISSENDORF|AT-6
+Europe/Berlin,DE-ST,Abtsdorf,DE,DE.ST,ABTSDORF|DE-ST
+Asia/Kuwait,KW-AH,Abu Al Hasaniya,KW,KW.AH,ABU AL HASANIYA|KW-AH
+Asia/Dubai,AE-AZ,Abu Dhabi,AE,AE.AZ,ABU DHABI|AE-AZ
+Asia/Kuwait,KW-AH,Abu Fatira,KW,KW.AH,ABU FATIRA|KW-AH
+Africa/Khartoum,SD-KS,Abu Jibeha,SD,SD.SK,ABU JIBEHA|SD-KS
+Asia/Damascus,SY-DY,Abu Kamal,SY,SY.DY,ABU KAMAL|SY-DY
+Africa/Cairo,EG-ASN,Abu Simbel,EG,EG.AN,ABU SIMBEL|EG-ASN
+Asia/Manila,PH-SOR,Abucay,PH,PH.SR,ABUCAY|PH-SOR
+Africa/Lagos,NG-FC,Abuja,NG,NG.FC,ABUJA|NG-FC
+Africa/Banjul,GM-B,Abuko,GM,GM.BJ,ABUKO|GM-B
+Africa/Accra,GH-EP,Aburi,GH,GH.EP,ABURI|GH-EP
+Asia/Manila,PH-ISA,Abut,PH,PH.IB,ABUT|PH-ISA
+Asia/Manila,PH-SOR,Abuyog,PH,PH.SR,ABUYOG|PH-SOR
+Asia/Manila,PH-QUE,Abuyon,PH,PH.QZ,ABUYON|PH-QUE
+Europe/Vienna,AT-4,Abwinden,AT,AT.OO,ABWINDEN|AT-4
+Europe/Paris,FR-33,Abzac,FR,FR.GI,ABZAC|FR-33
+Asia/Yekaterinburg,RU-BA,Abzakovo,RU,RU.BK,ABZAKOVO|RU-BA
+Europe/Budapest,HU-JN,Abádszalók,HU,HU.JN,ABADSZALOK|HU-JN
+Africa/Ndjamena,TD-OD,Abéché,TD,TD.OA,ABECHE|TD-OD
+Africa/Cairo,EG-BH,Abū Al Maţāmīr,EG,EG.BH,ABU AL MATAMIR|EG-BH
+Asia/Hebron,PS-WBK,Abū Dīs,PS,PS.WE,ABU DIS|PS-WBK
+Asia/Jerusalem,IL-JM,Abū Ghaush,IL,IL.JM,ABU GHAUSH|IL-JM
+Africa/Cairo,EG-SHR,Abū Kabīr,EG,EG.SQ,ABU KABIR|EG-SHR
+Asia/Hebron,PS-WBK,Abū Qashsh,PS,PS.WE,ABU QASHSH|PS-WBK

@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1638098799 source:/home/Ahmed/Documents/02-oop_c_c++/lab9/Circle.cpp
+	"Circle.h"
+	<iostream>
+
+1638103929 /home/Ahmed/Documents/02-oop_c_c++/lab9/Circle.h
+	"Geoshape.h"
+
+1638123023 source:/home/Ahmed/Documents/02-oop_c_c++/lab9/main.cpp
+	<iostream>
+	<Square.h>
+	<Circle.h>
+	<Geoshape.h>
+	<Rectangle.h>
+	<Square.h>
+	<Triangle.h>
+
+1638099611 source:/home/Ahmed/Documents/02-oop_c_c++/lab9/Rectangle.cpp
+	"Rectangle.h"
+	<iostream>
+
+1638104033 /home/Ahmed/Documents/02-oop_c_c++/lab9/Rectangle.h
+	"Geoshape.h"
+
+1638097775 source:/home/Ahmed/Documents/02-oop_c_c++/lab9/Square.cpp
+	"Square.h"
+	<iostream>
+
+1638097707 /home/Ahmed/Documents/02-oop_c_c++/lab9/Square.h
+	"Rectangle.h"
+
+1638123055 source:/home/Ahmed/Documents/02-oop_c_c++/lab9/Triangle.cpp
+	"Triangle.h"
+	<iostream>
+
+1638102676 /home/Ahmed/Documents/02-oop_c_c++/lab9/Triangle.h
+	"Geoshape.h"
+
+1638098840 source:/home/Ahmed/Documents/02-oop_c_c++/lab9/Geoshape.cpp
+	"Geoshape.h"
+	<iostream>
+
+1638199158 /home/Ahmed/Documents/02-oop_c_c++/lab9/Geoshape.h
+
+1638102676 /home/Ahmed/Documents/02-oop_c_c++/lab9//Triangle.h
+	"Geoshape.h"
+
+1638195932 /home/Ahmed/Documents/02-oop_c_c++/lab9//Geoshape.h
+
+1638097707 /home/Ahmed/Documents/02-oop_c_c++/lab9//Square.h
+	"Rectangle.h"
+
+1638104033 /home/Ahmed/Documents/02-oop_c_c++/lab9//Rectangle.h
+	"Geoshape.h"
+
+1638103929 /home/Ahmed/Documents/02-oop_c_c++/lab9//Circle.h
+	"Geoshape.h"
+

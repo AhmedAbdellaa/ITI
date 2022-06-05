@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1637152226 source:/home/Ahmed/Documents/lab5_01seprate/Complex.cpp
+	<iostream>
+	<math.h>
+	"Complex.h"
+
+1637151503 /home/Ahmed/Documents/lab5_01seprate/Complex.h
+
+1637149831 source:/home/Ahmed/Documents/lab5_01seprate/main.cpp
+	<iostream>
+	"Complex.h"
+

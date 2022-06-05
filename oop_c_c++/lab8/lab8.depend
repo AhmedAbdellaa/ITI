@@ -1,0 +1,60 @@
+# depslib dependency file v1.0
+1637235666 source:/home/Ahmed/Documents/02-oop_c_c++/lab8/Circle.cpp
+	"Circle.h"
+	<iostream>
+
+1637231018 /home/Ahmed/Documents/02-oop_c_c++/lab8/Circle.h
+	"Point.h"
+
+1637238597 source:/home/Ahmed/Documents/02-oop_c_c++/lab8/main.cpp
+	<iostream>
+	<Picture.h>
+	<Line.h>
+	<Circle.h>
+	<Rect.h>
+
+1637238352 source:/home/Ahmed/Documents/02-oop_c_c++/lab8/Picture.cpp
+	"Picture.h"
+	<iostream>
+
+1637238570 /home/Ahmed/Documents/02-oop_c_c++/lab8/Picture.h
+	<Line.h>
+	<Circle.h>
+	<Rect.h>
+
+1637233826 source:/home/Ahmed/Documents/02-oop_c_c++/lab8/Rect.cpp
+	"Rect.h"
+	<iostream>
+
+1637231012 /home/Ahmed/Documents/02-oop_c_c++/lab8/Rect.h
+	"Point.h"
+
+1637234428 source:/home/Ahmed/Documents/02-oop_c_c++/lab8/Point.cpp
+	"Point.h"
+	<iostream>
+
+1637231012 /home/Ahmed/Documents/02-oop_c_c++/lab8/Point.h
+
+1637237878 source:/home/Ahmed/Documents/02-oop_c_c++/lab8/Line.cpp
+	"Line.h"
+	<iostream>
+
+1637231012 /home/Ahmed/Documents/02-oop_c_c++/lab8/Line.h
+	"Point.h"
+
+1637231012 /home/Ahmed/Documents/02-oop_c_c++/lab8//Line.h
+	"Point.h"
+
+1637231012 /home/Ahmed/Documents/02-oop_c_c++/lab8//Point.h
+
+1637231018 /home/Ahmed/Documents/02-oop_c_c++/lab8//Circle.h
+	"Point.h"
+
+1637231012 /home/Ahmed/Documents/02-oop_c_c++/lab8//Rect.h
+	"Point.h"
+
+1637238570 /home/Ahmed/Documents/02-oop_c_c++/lab8//Picture.h
+	<Line.h>
+	<Circle.h>
+	<Rect.h>
+

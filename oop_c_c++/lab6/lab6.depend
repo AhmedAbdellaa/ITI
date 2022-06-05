@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1637145608 source:/home/Ahmed/Documents/02-oop_c_c++/lab6/main.cpp
+	<iostream>
+	"Stack.h"
+	"TestFriend.h"
+
+1637145276 /home/Ahmed/Documents/02-oop_c_c++/lab6/Stack.h
+	"TestFriend.h"
+
+1637150286 source:/home/Ahmed/Documents/02-oop_c_c++/lab6/Stack.cpp
+	"Stack.h"
+	<iostream>
+
+1637062866 /home/Ahmed/Documents/02-oop_c_c++/lab6/TestFriend.h
+	"Stack.h"
+
+1637064068 source:/home/Ahmed/Documents/02-oop_c_c++/lab6/TestFriend.cpp
+	"TestFriend.h"
+	"Stack.h"
+	<iostream>
+

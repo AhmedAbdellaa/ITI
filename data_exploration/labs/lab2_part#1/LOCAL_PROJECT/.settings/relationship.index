@@ -1,0 +1,148 @@
+[ {
+  "baseItem" : {
+    "id" : "_BbTnEGyoEeyP5dRszgIgsQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_2FdNMG4oEeyDm9erSx9uTQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_2FdNMG4oEeyDm9erSx9uTQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_FZlMQK9zEeuXHZuoQeUFHA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Bm5k0K9zEeuXHZuoQeUFHA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_Fif9cKh9EeuQ_9385e1hZg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_Abys4Kh-EeuQ_9385e1hZg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_KmEg0KiEEeuQ_9385e1hZg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_IWK6wKiEEeuQ_9385e1hZg",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_vXpzQKYIEeut8c14GqPCBA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_IWK6wKiEEeuQ_9385e1hZg - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  }, {
+    "id" : "_vXpzQKYIEeut8c14GqPCBA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_QKNNUGZ8EeWm5YvsrIoYzQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "DQTechnical",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DataQuality",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DemoRoutines",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "DqStringHandling",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "GetRandomPhoneNum",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "MDM",
+    "version" : "Latest",
+    "type" : "routine"
+  }, {
+    "id" : "SQLike",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_St8ggKYLEeut8c14GqPCBA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_gqfGEGyLEeyP5dRszgIgsQ",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_gqfGEGyLEeyP5dRszgIgsQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_jEv7YKhyEeuQ_9385e1hZg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_vXpzQKYIEeut8c14GqPCBA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_m8PyEK6sEeunQaksFRbhrA",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_vXpzQKYIEeut8c14GqPCBA",
+    "version" : "Latest",
+    "type" : "property"
+  }, {
+    "id" : "_vXpzQKYIEeut8c14GqPCBA - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_vjf1sG4gEeyDm9erSx9uTQ",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_X9PgoG4hEeyDm9erSx9uTQ - metadata",
+    "version" : "Latest",
+    "type" : "schema"
+  } ]
+} ]
